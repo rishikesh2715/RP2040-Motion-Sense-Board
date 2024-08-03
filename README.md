@@ -1,3 +1,6 @@
+# Going to be working on a updated version of this board with better EMI Shielding, A GPS Module, and some quality of life changes. Should have it ready in about a week or two. Feel free to suggest any changes, by opeining an issue, you would like to see.
+
+
 # RP2040-Motion-Sense-Board
 
 A microcontroller PCB based on the RP2040 MCU from Raspberry Pi with an on-board high-performance IMU, 2S LiPo battery charging circuit, 32 MB quad SPI flash memory, and a bunch of GPIO breakouts.
