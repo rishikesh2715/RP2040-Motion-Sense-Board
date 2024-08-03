@@ -4,17 +4,17 @@ A microcontroller PCB based on the RP2040 MCU from Raspberry Pi with an on-board
 
 ## Features
 
-- High-performance IMU
+- ICM 42688-P IMU
 - 2S LiPo battery charging circuit
 - 32 MB quad SPI flash memory
-- GPIO breakouts
 - TC2030 debug port
 - USB C
 - ESD protection circuit
 - RGB LED
+- Multilple GPIO breakouts
 - 1 I2C
 - 4 ADC
-- 1 UART on the GPIOs
+- 1 UART
 
 ## Disclaimer
 
