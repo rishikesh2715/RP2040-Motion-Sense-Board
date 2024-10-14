@@ -1,4 +1,4 @@
-# Going to be working on a updated version of this board with better EMI Shielding, A GPS Module, and some quality of life changes. Should have it ready in about a week or two. Feel free to suggest any changes, by opeining an issue, you would like to see.
+# AN updated version of this board is available [here](https://github.com/rishikesh2715/RP2040_Motion_Logger)
 
 
 # RP2040-Motion-Sense-Board
